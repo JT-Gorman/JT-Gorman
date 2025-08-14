@@ -1,9 +1,10 @@
 # Hello, I'm JT
 <a href="www.linkedin.com/in/joseph-thomas-gorman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@josephtom516"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 I am a recent MIS graduate looking to further my knowledge in the world of IT and cybersecurity. 
 
-## Objective
+## About Me
 
 I'm a recent college grad and passionate cyber enthusiast who enjoys learning more about the world of technology. My goal is to build technical projects that will further my skills in cyber security, software development, and cloud computing. I'm especially interested in system administration, networking, and artifical intelligence (AI). I'm eager to learn and develop my skills through fun and challenging projects. 
 
@@ -17,33 +18,17 @@ I'm a recent college grad and passionate cyber enthusiast who enjoys learning mo
 | Cloud arhitecture and serverless API development with AWS services                       | Pennsylvania Turnpike Commision Toll Calculator |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Splunk
+- Uitilzed Splunk in TryHackMe's virtual SOC environment to monitor, analyze, and visualze security events.
+  
+### Nessus Vulnerability Scanner
+- Installed and configured Nessus on a Kali Linux VM to scan for vulnerabilites and generate detailed security reports.
+  
+### Kali Linux
+- Gained hands on experience with Kali Linux by performing a simulated penetration test on a vulnerable system, including reconnaissance, exploitation, and reporting.
 
-### Network
-<!--
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
--->
-### Endpoint
-<!--
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
--->
-### SIEM
-<!--
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
--->
 ## Certifications
 <div>
-<a href="<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
 </div>
 
