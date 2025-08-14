@@ -15,7 +15,7 @@ I'm a recent college grad and passionate cyber enthusiast who enjoys learning mo
 | Penetration testing methodology and vulnerability exploitation using Kali Linux tools    | <a href="https://github.com/JT-Gorman/Undergrad-Penetration-Test-Report">Penetration Test Report</a> |
 | Windows Server Administration, Active Dreictory configuration, and PowerShell automation | <a href="https://github.com/JT-Gorman/ActiveDirectory-HomeLab-1000Users/blob/main/README.md">ActiveDirectory-HomeLab-1000Users</a> |
 | Full-stack web development with dynamic data visualizatoin and API integration           | <a href="https://github.com/JT-Gorman/BudgetApp/blob/main/README.md">BudgetApp</a> |
-| Cloud arhitecture and serverless API development with AWS services                       | Pennsylvania Turnpike Commision Toll Calculator |
+| Cloud arhitecture and serverless API development with AWS services                       | <a href="https://github.com/JT-Gorman/Pennsylvania-Turnpike-Commision-Toll-Calculator/blob/main/README.md">Pennsylvania Turnpike Commision Toll Calculator</a> |
 
 ## Tools
 ### Splunk
