@@ -1,14 +1,12 @@
-# Hello, I'm -----
+# Hello, I'm JT
 <a href="www.linkedin.com/in/joseph-thomas-gorman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent MIS graduate looking to further my learning in the world of IT and cybersecurity. 
+I am a recent MIS graduate looking to further my knowledge in the world of IT and cybersecurity. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-I want to further my skills in the world of IT and cybersecurity. I am currently exploring the different skills required in a system admin role as well as a Security Operations Center (SOC) analyst role. 
+I'm a recent college grad and passionate cyber enthusiast who enjoys learning more about the world of technology. My goal is to build technical projects that will further my skills in cyber security, software development, and cloud computing. I'm especially interested in system administration, networking, and artifical intelligence (AI). I'm eager to learn and develop my skills through fun and challenging projects. 
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
