@@ -1,5 +1,5 @@
 # Hey, I'm JT
-<a href="www.linkedin.com/in/joseph-thomas-gorman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joseph-thomas-gorman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@josephtom516"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 I am a recent MIS graduate looking to further my knowledge in the world of IT and cybersecurity. 
