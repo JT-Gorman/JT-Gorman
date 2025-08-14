@@ -1,4 +1,4 @@
-# Hello, I'm JT
+# Hey, I'm JT
 <a href="www.linkedin.com/in/joseph-thomas-gorman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@josephtom516"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
@@ -14,7 +14,7 @@ I'm a recent college grad and passionate cyber enthusiast who enjoys learning mo
 |-----------------------------------------------|----------------------------|
 | Penetration testing methodology and vulnerability exploitation using Kali Linux tools    | <a href="https://github.com/JT-Gorman/Undergrad-Penetration-Test-Report">Penetration Test Report</a> |
 | Windows Server Administration, Active Dreictory configuration, and PowerShell automation | <a href="https://github.com/JT-Gorman/ActiveDirectory-HomeLab-1000Users/blob/main/README.md">ActiveDirectory-HomeLab-1000Users</a> |
-| Full-stack web development with dynamic data visualizatoin and API integration           | BudgetApp |
+| Full-stack web development with dynamic data visualizatoin and API integration           | <a href="https://github.com/JT-Gorman/BudgetApp/blob/main/README.md">BudgetApp</a> |
 | Cloud arhitecture and serverless API development with AWS services                       | Pennsylvania Turnpike Commision Toll Calculator |
 
 ## Tools
