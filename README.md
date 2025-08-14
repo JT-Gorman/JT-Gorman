@@ -27,6 +27,9 @@ I'm a recent college grad and passionate cyber enthusiast who enjoys learning mo
 ### Kali Linux
 - Gained hands on experience with Kali Linux by performing a simulated penetration test on a vulnerable system, including reconnaissance, exploitation, and reporting.
 
+### AWS
+- Gained familiarity with AWS doing various projects such as my BudgetApp and Toll Calculator. Doing these projects I gained experience in Lambda, S3, CloudFront, RDS, DynamoDB, IAM, and Amazon API gateway.
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
