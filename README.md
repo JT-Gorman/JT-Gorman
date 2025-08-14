@@ -8,19 +8,14 @@ I am a recent MIS graduate looking to further my knowledge in the world of IT an
 I'm a recent college grad and passionate cyber enthusiast who enjoys learning more about the world of technology. My goal is to build technical projects that will further my skills in cyber security, software development, and cloud computing. I'm especially interested in system administration, networking, and artifical intelligence (AI). I'm eager to learn and develop my skills through fun and challenging projects. 
 
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-<!--
+## Projects
+| Overview                                                                                 | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
--->
+| Penetration testing methodology and vulnerability exploitation using Kali Linux tools    | Penetration Test Report |
+| Windows Server Administration, Active Dreictory configuration, and PowerShell automation | ActiveDirectory-HomeLab-1000Users |
+| Full-stack web development with dynamic data visualizatoin and API integration           | BudgetApp |
+| Cloud arhitecture and serverless API development with AWS services                       | Pennsylvania Turnpike Commision Toll Calculator |
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -48,18 +43,7 @@ I'm a recent college grad and passionate cyber enthusiast who enjoys learning mo
 </div>
 -->
 ## Certifications
-<!--
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
--->
-## Projects
-<!--
-- Detection Lab
-- SOC Automation Project
--->
+
